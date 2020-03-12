@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestVersionY</string>
+    <string name="from">From</string>
+    <string name="to">To...</string>
+    <string name="search">Search</string>
+    AddData();
+    <string name="hallo">Hallo</string>
+</resources>
