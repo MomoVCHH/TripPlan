@@ -124,11 +124,6 @@ public class MainActivity extends AppCompatActivity implements GeoTask.Geo {
     public void arraivelTime(String timeResult) {
         String res2[] = timeResult.split(",");
         min = Double.parseDouble(res2[0]) / 60;
-        /*
-        if()
-
-        tv_result3.setText("Arrival time= " (int)());
-        */
     }
 
 
