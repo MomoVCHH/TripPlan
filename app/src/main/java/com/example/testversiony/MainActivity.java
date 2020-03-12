@@ -45,12 +45,6 @@ public class MainActivity extends AppCompatActivity implements GeoTask.Geo {
 
     int cyear, cmonth, cdayOfMonth, chourOfDay, cminute;
 
-    ///Autocomlete suggesions +++++++++++++++
-
-
-    //+++++++++++++++++++++++++++++++++++
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
