@@ -189,12 +189,6 @@ public class MainActivity extends AppCompatActivity implements GeoTask.Geo {
         new TimePickerDialog(MainActivity.this, timeSetListener, calendar.get(Calendar.HOUR_OF_DAY), calendar.get(Calendar.MINUTE), false).show();
     }
 
-
-    /*private void showDateTimeDialog(final EditText setDateDeparturetime){
-        final Calendar calendar = Calendar.getInstance();
-
-     ;*/
-
     DatePickerDialog.OnDateSetListener dateSetListener = new DatePickerDialog.OnDateSetListener() {
         @Override
         public void onDateSet(DatePicker view, final int year, int month, int dayOfMonth) {
