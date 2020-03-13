@@ -6,7 +6,7 @@ However, the app is still under development, until now, the app has the Address 
 Later, the app will also have a map and can show the user the road, where should he go, from the origin to the destination. 
 It will also combine with the FireBase Cloud and this app will also synce with FireBase Cloud. The idea is, the data should always be transferred to the firebase cloud immediately.
 
-So far this product contains three Google APIs, they are are Distance Matrix API, Places API and Android SDK API. 
+So far this app contains three Google APIs, they are are Distance Matrix API, Places API and Android SDK API. 
 Receiving and sending of data through Json and Java HttpURLConnection. 
 
 
